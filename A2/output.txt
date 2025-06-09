@@ -1,0 +1,134 @@
+Starting molecule formation simulation...
+----------------------------------------
+Carbon thread 6124056576 has arrived
+Currently have 0 hydrogen, 0 oxygen, and 1 carbon atoms
+Hydrogen thread 6124630016 has arrived
+Currently have 1 hydrogen, 0 oxygen, and 1 carbon atoms
+Oxygen thread 6125203456 has arrived
+Currently have 1 hydrogen, 1 oxygen, and 1 carbon atoms
+Hydrogen thread 6125776896 has arrived
+Currently have 2 hydrogen, 1 oxygen, and 1 carbon atoms
+Hydrogen thread 6126350336 has arrived
+Currently have 3 hydrogen, 1 oxygen, and 1 carbon atoms
+Oxygen thread 6126923776 has arrived
+Currently have 3 hydrogen, 2 oxygen, and 1 carbon atoms
+
+Water molecule (H2O) formed by H:6125776896, H:6126350336, O:6126923776 (called by thread 6126923776)
+
+---Oxygen thread 6126923776 is leaving, 1 oxygen atoms remaining---
+Oxygen thread 6127497216 has arrived
+Currently have 1 hydrogen, 2 oxygen, and 1 carbon atoms
+
+---Hydrogen thread 6125776896 is leaving, 1 hydrogen atoms remaining---
+
+---Hydrogen thread 6126350336 is leaving, 1 hydrogen atoms remaining---
+Hydrogen thread 6125776896 has arrived
+Currently have 2 hydrogen, 2 oxygen, and 1 carbon atoms
+Hydrogen thread 6126350336 has arrived
+Currently have 3 hydrogen, 2 oxygen, and 1 carbon atoms
+Hydrogen thread 6126923776 has arrived
+Currently have 4 hydrogen, 2 oxygen, and 1 carbon atoms
+Oxygen thread 6128070656 has arrived
+Currently have 4 hydrogen, 3 oxygen, and 1 carbon atoms
+Carbon thread 6128644096 has arrived
+Currently have 4 hydrogen, 3 oxygen, and 2 carbon atoms
+Hydrogen thread 6129217536 has arrived
+Currently have 5 hydrogen, 3 oxygen, and 2 carbon atoms
+Hydrogen thread 6129790976 has arrived
+Currently have 6 hydrogen, 3 oxygen, and 2 carbon atoms
+Hydrogen thread 6130364416 has arrived
+Currently have 7 hydrogen, 3 oxygen, and 2 carbon atoms
+Carbon thread 6130937856 has arrived
+Currently have 7 hydrogen, 3 oxygen, and 3 carbon atoms
+Oxygen thread 6131511296 has arrived
+Currently have 7 hydrogen, 4 oxygen, and 3 carbon atoms
+Hydrogen thread 6132084736 has arrived
+Currently have 8 hydrogen, 4 oxygen, and 3 carbon atoms
+Carbon thread 6132658176 has arrived
+Currently have 8 hydrogen, 4 oxygen, and 4 carbon atoms
+Oxygen thread 6133231616 has arrived
+Currently have 8 hydrogen, 5 oxygen, and 4 carbon atoms
+Oxygen thread 6133805056 has arrived
+Currently have 8 hydrogen, 6 oxygen, and 4 carbon atoms
+
+Ozone molecule (O3) formed by O:6128070656, O:6133231616, O:6133805056 (called by thread 6133805056)
+
+---Oxygen thread 6133805056 is leaving, 3 oxygen atoms remaining---
+Hydrogen thread 6134378496 has arrived
+Currently have 9 hydrogen, 3 oxygen, and 4 carbon atoms
+
+Water molecule (H2O) formed by H:6125776896, H:6126350336, O:6125203456 (called by thread 6125203456)
+
+---Oxygen thread 6125203456 is leaving, 2 oxygen atoms remaining---
+
+---Hydrogen thread 6125776896 is leaving, 7 hydrogen atoms remaining---
+
+Alcohol molecule (C2H6O) formed by C:6130937856, C:6132658176, H:6129790976, H:6130364416, H:6132084736, H:6134378496, H:6124630016, H:6126923776, O:6131511296 (called by thread 6126923776)
+
+---Hydrogen thread 6126923776 is leaving, 1 hydrogen atoms remaining---
+
+---Oxygen thread 6131511296 is leaving, 1 oxygen atoms remaining---
+Oxygen thread 6133805056 has arrived
+Currently have 1 hydrogen, 2 oxygen, and 2 carbon atoms
+Hydrogen thread 6134951936 has arrived
+Currently have 2 hydrogen, 2 oxygen, and 2 carbon atoms
+
+---Hydrogen thread 6129790976 is leaving, 2 hydrogen atoms remaining---
+
+---Hydrogen thread 6126350336 is leaving, 2 hydrogen atoms remaining---
+
+---Hydrogen thread 6130364416 is leaving, 2 hydrogen atoms remaining---
+
+---Hydrogen thread 6134378496 is leaving, 2 hydrogen atoms remaining---
+
+---Hydrogen thread 6132084736 is leaving, 2 hydrogen atoms remaining---
+
+---Oxygen thread 6128070656 is leaving, 2 oxygen atoms remaining---
+
+---Oxygen thread 6133231616 is leaving, 2 oxygen atoms remaining---
+Carbon thread 6125203456 has arrived
+Currently have 2 hydrogen, 2 oxygen, and 3 carbon atoms
+Oxygen thread 6125776896 has arrived
+Currently have 2 hydrogen, 3 oxygen, and 3 carbon atoms
+
+---Hydrogen thread 6124630016 is leaving, 2 hydrogen atoms remaining---
+
+---Carbon thread 6130937856 is leaving, 3 carbon atoms remaining---
+
+---Carbon thread 6132658176 is leaving, 3 carbon atoms remaining---
+Oxygen thread 6124630016 has arrived
+Currently have 2 hydrogen, 4 oxygen, and 3 carbon atoms
+Hydrogen thread 6126350336 has arrived
+Currently have 3 hydrogen, 4 oxygen, and 3 carbon atoms
+Oxygen thread 6126923776 has arrived
+Currently have 3 hydrogen, 5 oxygen, and 3 carbon atoms
+
+Ozone molecule (O3) formed by O:6125776896, O:6124630016, O:6126923776 (called by thread 6126923776)
+
+---Oxygen thread 6126923776 is leaving, 2 oxygen atoms remaining---
+Hydrogen thread 6128070656 has arrived
+Currently have 4 hydrogen, 2 oxygen, and 3 carbon atoms
+
+Water molecule (H2O) formed by H:6126350336, H:6128070656, O:6127497216 (called by thread 6128070656)
+
+Waiting for simulation to complete...
+
+---Hydrogen thread 6128070656 is leaving, 2 hydrogen atoms remaining---
+
+---Hydrogen thread 6126350336 is leaving, 2 hydrogen atoms remaining---
+
+---Oxygen thread 6127497216 is leaving, 1 oxygen atoms remaining---
+
+---Oxygen thread 6125776896 is leaving, 1 oxygen atoms remaining---
+
+---Oxygen thread 6124630016 is leaving, 1 oxygen atoms remaining---
+
+Water molecule (H2O) formed by H:6134951936, H:6129217536, O:6133805056 (called by thread 6133805056)
+
+---Oxygen thread 6133805056 is leaving, 0 oxygen atoms remaining---
+
+---Hydrogen thread 6134951936 is leaving, 0 hydrogen atoms remaining---
+
+---Hydrogen thread 6129217536 is leaving, 0 hydrogen atoms remaining---
+
+Simulation complete!
